@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-commerce Product Page</title>
+  <link rel="stylesheet" href="css\styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">ShopNow</div>
+  </header>
+
+  <main>
+    <section class="product-section">
+      <div class="product-image">
+        <img src="img\image.jpg" alt="Product" id="main-image">
+        <div class="thumbnails">
+          <img src="img\image1.jpg" alt="Thumbnail" class="thumbnail">
+          <img src="img\images2.jpg" alt="Thumbnail" class="thumbnail">
+          <img src="img\images3.jpg" alt="Thumbnail" class="thumbnail">
+        </div>
+      </div>
+
+      <div class="product-details">
+        <h1>Red Tape</h1>
+        <p class="price">$49.99</p>
+        <p class="description">
+          This is a premium quality product designed to meet all your needs. Perfect for daily use or as a gift for your loved ones.
+        </p>
+        <button id="add-to-cart">Add to Cart</button>
+        <button id="buy-now">Buy Now</button>
+      </div>
+    </section>
+
+    <section class="cart-section">
+      <h2>Shopping Cart</h2>
+      <ul id="cart-items"></ul>
+      <p id="total-price">Total: $0.00</p>
+      <button id="checkout">Checkout</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 ShopNow. All rights reserved.</p>
+  </footer>
+
+  <script src="js\scripts.js"></script>
+</body>
+</html>
