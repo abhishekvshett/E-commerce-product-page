@@ -44,7 +44,7 @@ JavaScript (ES6) – Interactivity (e.g., add to cart, image toggle) <hr>
 
 Clone the repository:
 
-git clone https://github.com/your-username/ecommerce-product-page.git
+git clone https://github.com/your-username/project_name.git
 
 
 Navigate to the project folder:
