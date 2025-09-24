@@ -25,11 +25,11 @@ JavaScript (ES6) – Interactivity (e.g., add to cart, image toggle) <hr>
 
 🎮 How to Use
 
-Open index.html in your browser.
+1) Open index.html in your browser.
 
-Browse the product details and images.
+2) Browse the product details and images.
 
-Click Add to Cart to simulate adding items. <hr>
+3) Click Add to Cart to simulate adding items. <hr>
 
 
 📸 Screenshots
@@ -40,5 +40,29 @@ Click Add to Cart to simulate adding items. <hr>
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/c28145cb-d804-41ec-8409-073578a28fd9" />
 <br>
 <hr>
+🔧 Setup & Run Locally
+
+Clone the repository:
+
+git clone https://github.com/your-username/ecommerce-product-page.git
+
+
+Navigate to the project folder:
+
+cd folder_name
+
+
+Open index.html in your browser.
+<hr>
+
+📌 Future Enhancements
+
+🛒 Full shopping cart system with item quantity
+
+💳 Checkout flow with payment gateway (integration demo)
+
+🌍 Backend integration for real products
+
+🔎 Search and filter options
 
 
